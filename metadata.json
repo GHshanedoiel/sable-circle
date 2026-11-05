@@ -1,0 +1,6 @@
+{
+  "name": "Sable Circle",
+  "description": "Where vision meets precision — The premium AI-powered YouTube Shorts & clipping studio for elite creators, directors, and producers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

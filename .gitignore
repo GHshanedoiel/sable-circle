@@ -1,0 +1,27 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local SQLite databases & migrations
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Next.js
+.next/
+out/
+
+# Video processing temporary render outputs
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.prores
+!public/
+
